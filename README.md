@@ -1,3 +1,4 @@
+[![Netology homework](https://github.com/andrejtop/react_homework_2_1/actions/workflows/web.yml/badge.svg)](https://github.com/andrejtop/react_homework_2_1/actions/workflows/web.yml)
 Портфолио с фильтрами
 ===
 
